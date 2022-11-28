@@ -3,8 +3,11 @@
 
 
 
-Step 1: 
+Step 1: Atomicity
 
-Step 2: 
+Step 2: Same datatype
 
-Step 3:
+Step 3: Unique column name
+
+Step 4: Order doesnt matter
+
